@@ -18,7 +18,7 @@ import {
   doc,
   onSnapshot,
   orderBy,
-  query,
+  query,  
   serverTimestamp,
   setDoc,
 } from "firebase/firestore";
